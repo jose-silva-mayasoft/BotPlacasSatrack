@@ -1,0 +1,19 @@
+{
+  "name": "placasstrack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/scripts/iniciarRegistro.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^3.0.4"
+  },
+  "devDependencies": {
+    "playwright": "^1.53.1"
+  }
+}
