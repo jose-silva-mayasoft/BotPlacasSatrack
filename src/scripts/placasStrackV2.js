@@ -1,7 +1,7 @@
 const { firefox } = require('playwright');
 
 async function placasSatrackV2(vehicle, userSatrack) {
-  const browser = await firefox.launch({ headless: false });
+  const browser = await firefox.launch({ headless: true });
 
   try {
     const context = await browser.newContext({
