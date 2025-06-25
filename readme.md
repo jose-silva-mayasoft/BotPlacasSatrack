@@ -45,7 +45,7 @@ Dentro del archivo existe un **array** en el cual se deben definir los vehículo
 
 ### 🔐 Usuario
 
-En el mismo archivo se debe proporcionar la información del **usuario** que el bot utilizará para iniciar sesión en el sistema. Este usuario debe tener los permisos necesarios para registrar vehículos.
+En el mismo archivo se debe proporcionar la información del **usuario** al cual se le compartiran las placas de satrack, el usuario que satrack le dio al cliente 
 
 ---
 
