@@ -1,6 +1,4 @@
-[Descargar](https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi) la version de Node necesaria 
-
-# BotPlacasSatrack
+#1 BotPlacasSatrack
 
 Este proyecto es un bot automatizado para registrar placas de vehículos en el sistema de Satrack. A continuación, encontrarás las instrucciones para instalar y ejecutar el bot correctamente.
 
